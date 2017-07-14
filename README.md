@@ -1,6 +1,6 @@
-# Cooking Recipes
+# Desserts
 
-Time for a break? Whammy recipes for desserts and cakes :)
+Break time! Whammy recipes for desserts and cakes :)
 
 ## Flan
 ##### Ingredients

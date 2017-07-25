@@ -1,4 +1,4 @@
-# Desserts
+# Cooking Recipes
 
 Break time! Whammy recipes for desserts and cakes :)
 
